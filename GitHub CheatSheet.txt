@@ -1,0 +1,28 @@
+open account and create repository in www.github.com
+
+
+Open Git Bash and Navigate to Project folder
+ 
+1>git init
+-- Will initiate git in project folder
+
+2>git add -A
+-- Add file to git index
+
+3>git commit -m 'First Commit'
+-- Commit Addded Files
+
+4>git remote add origin git@github.com/UserName/Repository-Name
+-- Adding remote origin
+
+5> git push -u -f origin master
+-- Push to GitHub
+
+6>
+
+
+
+
+
+
+ 
