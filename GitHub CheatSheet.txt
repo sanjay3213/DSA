@@ -6,7 +6,7 @@ Open Git Bash and Navigate to Project folder
 1>git init
 -- Will initiate git in project folder
 
-2>git add -A
+2>git add -A or .
 -- Add file to git index
 
 3>git commit -m 'First Commit'
