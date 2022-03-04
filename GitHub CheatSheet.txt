@@ -18,7 +18,9 @@ Open Git Bash and Navigate to Project folder
 5> git push -u -f origin master
 -- Push to GitHub
 
-6>
+Add> Commit > Push ----To update changes to cloud
+
+This information written to test commits of github
 
 
 
